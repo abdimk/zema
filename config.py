@@ -1,8 +1,8 @@
 import  os
 
 BOT_TOKEN = "2086452097:AAHd7U4Jkse-JPghTqYVmjC_lf86ek38qqw"
-APP_ID = 1390245
-API_HASH = "a021871c10d820e0bb7a5d0e999d8c7f"
+APP_ID = 
+API_HASH = "a999d8c7f"
 
 youtube_next_fetch = 0  # time in minute
 
